@@ -94,3 +94,26 @@
    94  ls
    95  cd ..
    96  history > cmdsTarefa2.txt
+   97  git add .
+   98  git commit -m "2ª tarefa concluída: pastas js e css criadas"
+   99  git push origin main
+  100  ls
+  101  git add .
+  102  ls
+  103  cd css
+  104  ls
+  105  rm style.css
+  106  cd style.css
+  107  ls
+  108  cd ..
+  109  rmdir style.css/
+  110  cd ..
+  111  rmdir css
+  112  ls
+  113  mkdir css
+  114  ls
+  115  cd css
+  116  touch style.css
+  117  ls
+  118  cd ..
+  119  history > cmdsTarefa2.txt
